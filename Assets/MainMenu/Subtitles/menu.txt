@@ -1,0 +1,11 @@
+00	Welcome to virtual reality! 
+
+02	In front of you, you can see options corresponding to 
+05	each of the three virtual scenes that you can view 
+09	as well as some information about this project. 
+
+12	Touch any of them with your hand to show information about them, 
+16	and if you would like to enter one, 
+19	bring your hands together with a gentle clap. 
+
+22	Make sure that you can see your hands, or else nothing will happen!

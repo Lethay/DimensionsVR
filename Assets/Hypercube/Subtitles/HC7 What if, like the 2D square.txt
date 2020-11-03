@@ -1,0 +1,12 @@
+00	What if, like the 2D square living in a 3D world that we saw earlier, 
+05	this 3D cube was living inside a 4D world? 
+
+10	We would then be able to rotate the cube in 4D space,
+14	as you can see now. 
+
+16	Do you remember the way that rotating the square earlier
+19	made its shadow appear to turn inside out?
+
+23	Here, you can see the same effect. 
+27	This cube isn’t really turning inside out 
+30	– it’s rotating through a higher dimension that we can’t see!

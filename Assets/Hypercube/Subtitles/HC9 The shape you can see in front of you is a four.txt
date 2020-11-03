@@ -1,0 +1,5 @@
+00	The shape you can see in front of you now
+03	is a four-dimensional cube, called a “hypercube”. 
+
+07	More accurately, this is the 3D shadow of a 4D cube, 
+12	just as earlier we could see a 2D shadow of our 3D cube. 

@@ -1,0 +1,9 @@
+00	You can try this yourself,
+02	by touching the magical controller that has just appeared in front of you. 
+
+06	Each of the coloured rings is a rotation axis in 4D space.
+
+12	You can also use the buttons in your left palm
+15	to restrict the rotations to these coloured axes. 
+
+20	When you’re ready to continue, give two thumbs up again.

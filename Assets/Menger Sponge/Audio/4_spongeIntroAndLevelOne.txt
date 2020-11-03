@@ -1,0 +1,22 @@
+00	For the rest of this video,
+1.5	we’re going to explore one example of a fractal
+05	– a shape called the “Menger Sponge”. 
+
+08	This shape has a dimension of around 2.727 and therefore
+14	lives somewhere between two dimensions and three dimensions.
+
+20	To make a Menger Sponge, let’s start off with our 3D cube.
+
+25	We’re going to define a rule which we can apply
+27	again and again to build our fractal.
+
+30	As before, we can split the cube into 27 smaller copies of itself,
+36	each three times smaller than the original, like a Rubik’s cube.
+
+41	The rule which we’ll apply is to take away the
+44	central cube from each of the six faces,
+47	and the cube that’s left in the middle.
+
+50	If we do this once we are left with a “level one” Menger Sponge.
+
+56	This shape is made of 20 cubes, each one third the size of the original cube. 

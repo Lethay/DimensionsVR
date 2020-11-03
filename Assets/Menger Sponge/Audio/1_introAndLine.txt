@@ -1,0 +1,37 @@
+00	In this exhibition, you’ve seen a way that dimensions can be defined
+04	in terms of the number of possible directions there are to move. 
+
+09	But mathematically there are different ways of 
+12	describing the idea of a dimension. 
+
+15	One of them, the “fractal” dimension, 
+18	uses the way that objects scale to define their dimension.
+
+23	Here, we consider how many identical smaller copies of a shape are 
+27	needed to recreate the original shape.
+
+31	The equation you can see now describes this relationship.
+
+35	The number of smaller copies needed 
+38	is the same as the factor we have shrunk the shape by, 
+42	raised to the power of the dimension 
+45	– that is 2 for two dimensions, 3 for three dimensions
+49	and so on and so forth. 
+
+52	If a shape can be recreated from smaller copies of itself,
+57	we can use this equation to find the fractal dimension.
+
+61	Take this straight line, for example. 
+
+64	Lines, as you have seen earlier in the exhibition, are one dimensional. 
+
+69	If we shrink this one-dimensional line by a factor of,
+73	let us say, three, we are left 
+75	with a smaller copy of the original line. 
+
+78	But we can put three of these copies together
+82	to end up with the line that we first started with.
+
+87	If we had shrank the line by a factor of 5,
+90	we would have needed 5 smaller lines to recreate the original line
+95	and so on and so forth. 

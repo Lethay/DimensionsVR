@@ -1,0 +1,10 @@
+00	What if we do the same for a two-dimensional square?
+
+05	This time, shrinking each edge of the square by a factor of three,
+10	we realise that we need more than three copies to rebuild the original.
+
+15	In fact, we need nine copies to remake our original square. 
+
+20	We have had to shrink both edges of the square, 
+23	meaning that we need nine copies 
+26	– or three to the power of two – to reconstruct the original.

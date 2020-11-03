@@ -1,0 +1,15 @@
+00	Since this square is living in a 3D world,
+03	it can undergo other rotations 
+06	– rotations which take it out of its own plane. 
+
+10	In 3D, we can see that the square isn’t changing shape at all, 
+15	but take another look at its shadow. 
+
+18	The 2D shadow appears to turn inside out!
+
+22	The shape itself isn’t changing, just rotating 
+26	– but if we could see only its shadow, 
+29	we might say that something strange was happening. 
+
+33	When you’re ready to continue, 
+35	give two thumbs up in front of you and make sure you can see your hands.

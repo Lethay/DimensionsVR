@@ -1,0 +1,3 @@
+00	None of the flat objects can enter the house 
+03	because they can only walk left and right 
+06	and forth and back but not upwards or downwards.

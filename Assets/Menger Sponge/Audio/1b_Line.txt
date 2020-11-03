@@ -1,0 +1,14 @@
+﻿0	Take this straight line, for example. 
+
+2	Lines, as you have seen earlier in the exhibition, are one dimensional. 
+
+7	If we shrink this one-dimensional line by a factor of,
+11	let us say, three, we are left 
+13	with a smaller copy of the original line. 
+
+16	But we can put three of these copies together
+20	to end up with the line that we first started with.
+
+25	If we had shrank the line by a factor of 5,
+28	we would have needed 5 smaller lines to recreate the original line
+33	and so on and so forth. 

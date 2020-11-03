@@ -1,0 +1,6 @@
+00	As a 2.7 dimensional shape,
+03	the Menger Sponge has some unusual properties.
+
+06	For example, it has an infinite surface area,
+09	but no volume at all, as every time we apply the rule
+14	we increase the surface area and reduce the volume. 

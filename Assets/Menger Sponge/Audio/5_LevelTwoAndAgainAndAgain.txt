@@ -1,0 +1,7 @@
+00	We can now apply our rule a second time,
+04	to each of the 20 sub-cubes, to give a “level two” sponge.
+
+10	This creates even more smaller cubes – 400, in fact!
+
+15	We can apply the rule to each of these to get more cubes,
+19	and repeat this again, and again, and again…

@@ -1,0 +1,4 @@
+00	We can think of the space inside the cube as being filled 
+03	with infinitely many 2D squares which don’t overlap 
+08	– infinitely thin squares which, 
+11	when stuck together, form the 3D shape.

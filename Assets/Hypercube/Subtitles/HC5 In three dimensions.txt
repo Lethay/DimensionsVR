@@ -1,0 +1,1 @@
+00	In three dimensions, there are three distinct ways of rotating the cube. 

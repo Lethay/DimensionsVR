@@ -1,0 +1,9 @@
+00	In front of you, you can see a square. 
+
+02	This is a two-dimensional shape, living inside our three-dimensional world. 
+
+07	There’s only one way in which the shape can rotate within its own plane, 
+12	as you see now. 
+
+14	Take a good look at the shadow on the back wall 
+18	– this is a projection of the square onto the 2D surface of the wall.

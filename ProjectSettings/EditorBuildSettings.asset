@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/Menu.unity
+    guid: 5cacef71f2e052646bdcee89b9cfa96b
+  - enabled: 1
+    path: Assets/Hypercube/Scenes/HypercubeTutorial.unity
+    guid: 5281b4bca0d99374784c42039d5d94b0
+  - enabled: 1
+    path: Assets/Flatland/Scenes/FlatlandAnimationScene.unity
+    guid: 25a7b55bd412d44dcbda3dee8d0a713b
+  - enabled: 1
+    path: Assets/Flatland/Scenes/attack4D.unity
+    guid: c61d99f8a35b744b8b1257461ea26516
+  - enabled: 1
+    path: Assets/Flatland/Scenes/FlatlandPlaygroundScene.unity
+    guid: 780dd224f600241168dca193d4256d6a
+  - enabled: 1
+    path: Assets/Menger Sponge/Scenes/FractalsIntro.unity
+    guid: 9f6567812243b7d4892f5225719287a7
+  - enabled: 1
+    path: Assets/Menger Sponge/Scenes/MakingASponge3.unity
+    guid: 7697beb5c01bf6249bb880c284e37051
+  - enabled: 1
+    path: Assets/Menger Sponge/Scenes/SpongeExplorer8.unity
+    guid: a2fe17ee5ef6f2a45938fd9b8c797ba7
+  - enabled: 0
+    path: Assets/Hypercube/Scenes/HypercubeTutorialShortened.unity
+    guid: 15b508f03b2f32d48b5ad7161a9f1789
+  m_configObjects: {}

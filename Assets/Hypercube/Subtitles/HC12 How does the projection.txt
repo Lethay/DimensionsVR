@@ -1,0 +1,7 @@
+00	How does the projection of the hypercube change as we rotate it in 4D? 
+
+06	Notice that it seems to turn inside out sometimes 
+10	– just like the shadow of the cube did earlier. 
+
+14	This doesn’t mean the hypercube is changing shape
+17	– we’re just seeing a different projection of it.

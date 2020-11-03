@@ -1,0 +1,139 @@
+1_IntroAndLine
+00	In this exhibition, you’ve seen a way that dimensions can be defined
+04	in terms of the number of possible directions there are to move. 
+
+09	But mathematically there are different ways of 
+12	describing the idea of a dimension. 
+
+15	One of them, the “fractal” dimension, 
+18	uses the way that objects scale to define their dimension.
+
+23	Here, we consider how many identical smaller copies of a shape are 
+27	needed to recreate the original shape.
+
+31	The equation you can see now describes this relationship.
+
+35	The number of smaller copies needed 
+38	is the same as the factor we have shrunk the shape by, 
+42	raised to the power of the dimension 
+45	– that is 2 for two dimensions, 3 for three dimensions
+49	and so on and so forth. 
+
+52	If a shape can be recreated from smaller copies of itself,
+57	we can use this equation to find the fractal dimension.
+
+61	Take this straight line, for example. 
+
+64	Lines, as you have seen earlier in the exhibition, are one dimensional. 
+
+69	If we shrink this one-dimensional line by a factor of,
+73	let us say, three, we are left 
+75	with a smaller copy of the original line. 
+
+78	But we can put three of these copies together
+82	to end up with the line that we first started with.
+
+87	If we had shrank the line by a factor of 5,
+90	we would have needed 5 smaller lines to recreate the original line
+95	and so on and so forth. 
+
+2_Square
+00	What if we do the same for a two-dimensional square?
+
+05	This time, shrinking each edge of the square by a factor of three,
+10	we realise that we need more than three copies to rebuild the original.
+
+15	In fact, we need nine copies to remake our original square. 
+
+20	We have had to shrink both edges of the square, 
+23	meaning that we need nine copies 
+26	– or three to the power of two – to reconstruct the original.
+
+3_CubeAndFractalInfo
+00	One more example – how about a three-dimensional cube?
+
+05	Once we shrink each edge by a factor of three,
+09	we will need to stick 27 copies together to get back to where we started,
+15	just like a Rubik’s cube.
+
+17	This definition of dimension leads to an exciting possibility
+23	– there are shapes for which the dimension isn’t a whole number at all!
+
+27	For example, shapes called “fractals” can have a
+30	dimension somewhere in between one and two, or two and three! 
+
+4_SpongeIntroAndLevelOne
+00	For the rest of this video,
+1.5	we’re going to explore one example of a fractal
+05	– a shape called the “Menger Sponge”. 
+
+08	This shape has a dimension of around 2.727 and therefore
+14	lives somewhere between two dimensions and three dimensions.
+
+20	To make a Menger Sponge, let’s start off with our 3D cube.
+
+25	We’re going to define a rule which we can apply
+27	again and again to build our fractal.
+
+30	As before, we can split the cube into 27 smaller copies of itself,
+36	each three times smaller than the original, like a Rubik’s cube.
+
+41	The rule which we’ll apply is to take away the
+44	central cube from each of the six faces,
+47	and the cube that’s left in the middle.
+
+50	If we do this once we are left with a “level one” Menger Sponge.
+
+56	This shape is made of 20 cubes, each one third the size of the original cube. 
+
+5_LevelTwoAndAgainAndAgain
+00	We can now apply our rule a second time,
+04	to each of the 20 sub-cubes, to give a “level two” sponge.
+
+10	This creates even more smaller cubes – 400, in fact!
+
+15	We can apply the rule to each of these to get more cubes,
+19	and repeat this again, and again, and again…
+
+6_MengerSpongeDimension
+00	The Menger Sponge is the name of the shape
+04	that we’re left with if we apply this rule infinitely many times!
+
+09	The Menger Sponge is made of 20 identical copies of itself,
+13	each of them three times smaller than the original.
+
+17	We can use the scaling definition of a dimension
+20	that we saw earlier to find the dimension of the Menger Sponge.
+
+24	We have to solve the equation 20 = 3^D,
+29	which is true when D, the dimension, equals approximately 2.727!
+
+7_ProceedWithCautionHighRes
+00	We're going to take a trip around a level 5 Menger Sponge now
+03	- if you suffer from motion sickness, please proceed with caution!
+
+7_ProceedWithCautionLevel5
+00	We're going to take a trip around a level 5 Menger Sponge now
+04	- if you suffer from motion sickness, please proceed with caution!
+
+8_SomeUnusualProperties
+00	As a 2.7 dimensional shape,
+03	the Menger Sponge has some unusual properties.
+
+06	For example, it has an infinite surface area,
+09	but no volume at all, as every time we apply the rule
+14	we increase the surface area and reduce the volume. 
+
+8AndABit_Caveat
+00	Of course, the shape we're currently looking at
+03	isn't quite a true fractal
+06	- here, if you look closely enough you can find solid walls.
+
+10	In a true Menger Sponge,looking closely just reveals
+14	an infinite number of smaller and smaller holes!
+
+9_Finale
+00	The Menger Sponge isn’t the only possible fractal
+04	– in fact, the fractal dimension is a very good measure
+08	of how complicated shapes are,
+10	and has been used to describe everything from coastlines to cancer!

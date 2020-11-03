@@ -1,0 +1,6 @@
+00	Of course, the shape we're currently looking at
+03	isn't quite a true fractal
+06	- here, if you look closely enough you can find solid walls.
+
+10	In a true Menger Sponge,looking closely just reveals
+14	an infinite number of smaller and smaller holes!

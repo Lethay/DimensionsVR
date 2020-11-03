@@ -1,0 +1,48 @@
+1-WelcomeToFlatland
+00	Welcome to Flatland!
+
+02	In this land, all objects are perfectly flat.  
+
+2-Populated
+00	This land is populated by triangles, circles, squares, 
+05	and an exceptionally flat penguin!
+
+3-FlatPenguin
+00	Flat Penguin lives in its house,
+03	which is separated by perfectly flat walls from the outside. 
+
+4-MovementObjects
+00	None of the flat objects can enter the house 
+03	because they can only walk left and right 
+06	and forth and back but not upwards or downwards.
+
+5-SphereAppearing
+00	Now, let’s assume that a strange three-dimensional sphere 
+04	comes into flatland. 
+
+06	First, this sphere hovers over Flat Penguin’s house, 
+11	unnoticed by the occupant. 
+
+14	Second, it enters flat house. 
+
+18	We, as the external observers, 
+21	see that it is a three-dimensional sphere,
+24	but how does Flat Penguin see this sphere?
+
+28	Flat penguin sees only a cross section of the sphere,
+33	which is a circle! 
+
+35	As the sphere moves up and down,
+38	Flat Penguin sees different slices through the sphere,
+42	thus the circle changes in size.
+
+46	Flat penguin sees a mysterious circle 
+49	appearing in its house that changes its size,
+55	and must think it has lost its mind. 
+
+6-4DAttack
+00	Now imagine us living in a three-dimensional space
+05	as a version of flatland:
+08	for us, the appearance of a four-dimensional object
+12	would look similar to the appearance of the sphere for Flat Penguin: 
+17	a three-dimensional object that magically changes its size. 

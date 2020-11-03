@@ -1,0 +1,10 @@
+00	Now let’s take a look at a 3D cube.
+
+04	We can think of a cube as being two parallel squares,
+08	joined at each edge by four more squares. 
+
+12	Notice how in the projection of the cube on the back wall, 
+16	the furthest face of the cube looks smaller than the closest one.
+
+22	If we could see only the shadow, we might guess the faces were different sizes 
+27	– instead, they’re just different distances apart in the third dimension.

@@ -1,0 +1,4 @@
+00	You can think of a hypercube as being two cubes connected 
+04	to each other along each face by another 6 cubes, 
+08	just as a 3D cube is like two squares connected
+12	along each edge by another 4 squares.

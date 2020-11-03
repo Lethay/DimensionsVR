@@ -1,0 +1,2 @@
+00	Flat Penguin lives in its house,
+03	which is separated by perfectly flat walls from the outside. 

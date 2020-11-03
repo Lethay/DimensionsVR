@@ -1,0 +1,7 @@
+00	Remember, because this is a projection, the cubes aren’t different sizes
+04	– they just appear that way because they’re further away in the fourth dimension. 
+
+10	We can think of the space within a hypercube
+12	as being filled by infinitely many 3D cubes 
+16	which are stacked together along the fourth dimension,
+20	as before we thought of a 3D cube as filled by infinitely many 2D squares.

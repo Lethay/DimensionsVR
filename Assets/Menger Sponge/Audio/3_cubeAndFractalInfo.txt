@@ -1,0 +1,11 @@
+00	One more example – how about a three-dimensional cube?
+
+05	Once we shrink each edge by a factor of three,
+09	we will need to stick 27 copies together to get back to where we started,
+15	just like a Rubik’s cube.
+
+17	This definition of dimension leads to an exciting possibility
+23	– there are shapes for which the dimension isn’t a whole number at all!
+
+27	For example, shapes called “fractals” can have a
+30	dimension somewhere in between one and two, or two and three! 

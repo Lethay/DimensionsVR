@@ -1,0 +1,4 @@
+00	The Menger Sponge isn’t the only possible fractal
+04	– in fact, the fractal dimension is a very good measure
+08	of how complicated shapes are,
+10	and has been used to describe everything from coastlines to cancer!

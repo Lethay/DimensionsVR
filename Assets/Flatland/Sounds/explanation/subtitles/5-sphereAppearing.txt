@@ -1,0 +1,22 @@
+00	Now, let’s assume that a strange three-dimensional sphere 
+04	comes into flatland. 
+
+06	First, this sphere hovers over Flat Penguin’s house, 
+11	unnoticed by the occupant. 
+
+14	Second, it enters flat house. 
+
+18	We, as the external observers, 
+21	see that it is a three-dimensional sphere,
+24	but how does Flat Penguin see this sphere?
+
+28	Flat penguin sees only a cross section of the sphere,
+33	which is a circle! 
+
+35	As the sphere moves up and down,
+38	Flat Penguin sees different slices through the sphere,
+42	thus the circle changes in size.
+
+46	Flat penguin sees a mysterious circle 
+49	appearing in its house that changes its size,
+55	and must think it has lost its mind. 

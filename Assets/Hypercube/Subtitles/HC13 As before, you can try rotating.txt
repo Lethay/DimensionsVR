@@ -1,0 +1,7 @@
+00	As before, you can try rotating this projection
+03	around our familiar 3D space by touching the cube,
+07	but you can also rotate in a 4D space by using the magical controller. 
+
+13	Feel free to explore the hypercube for as long as you’d like. 
+
+17	Give two thumbs up when you’re ready to leave this room.

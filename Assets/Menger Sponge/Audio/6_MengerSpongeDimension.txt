@@ -1,0 +1,11 @@
+00	The Menger Sponge is the name of the shape
+04	that we’re left with if we apply this rule infinitely many times!
+
+09	The Menger Sponge is made of 20 identical copies of itself,
+13	each of them three times smaller than the original.
+
+17	We can use the scaling definition of a dimension
+20	that we saw earlier to find the dimension of the Menger Sponge.
+
+24	We have to solve the equation 20 = 3^D,
+29	which is true when D, the dimension, equals approximately 2.727!
